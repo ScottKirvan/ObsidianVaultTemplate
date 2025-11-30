@@ -1,7 +1,7 @@
 
 
 - 🔖 Encounters   
- `$=dv.list(dv.pages('"+ Encounters"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`  
+ `$=dv.list(dv.pages('"+ Main"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`  
 - 🗄️ Recent Updates   
 `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`  
 
