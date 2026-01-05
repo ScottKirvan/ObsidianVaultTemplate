@@ -4,8 +4,8 @@
     "Main Homepage": {
       "value": "README",
       "kind": "File",
-      "openOnStartup": true,
-      "openMode": "Replace all open notes",
+      "openOnStartup": false,
+      "openMode": "Keep open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Reading view",
       "revertView": true,
